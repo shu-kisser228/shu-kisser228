@@ -20,14 +20,14 @@
 <p align="center">
  $\color{#776e69}{\textsf{ 𝑻𝒉𝒆 𝒆𝒗𝒊𝒍 𝒓𝒊𝒏𝒈, 𝑻𝒉𝒆 𝒉𝒖𝒏𝒕𝒆𝒓 𝒘𝒂𝒏𝒕𝒔 𝒕𝒐 𝒍𝒊𝒗𝒆 𝒒𝒖𝒊𝒆𝒕𝒍𝒚, 𝑻𝒉𝒆 𝑺 𝒄𝒍𝒂𝒔𝒔𝒆𝒔 𝒕𝒉𝒂𝒕 𝒊 𝒓𝒂𝒊𝒔𝒆𝒅, 𝑭𝒐𝒈𝒍𝒂𝒏𝒅}}$
 
- ##
+ #
  
  <p align="center">
 <img src="https://github.com/shu-kisser228/shu-kisser228/blob/c64bb8b3bea3bd0e722b4819a4366d667f6af9ce/tumblr_fea5ee0f1d4b29bb055c9b266548829d_b7c2ecf6_1280.png" width="800" height="80">  
  <p align="center">
- $\color{#be2323}{\textsf{°˖✧˚𝐃𝐍𝐈˚✧˖°}}$
+ $\color{#e1d5d5}{\textsf{°˖✧˚𝐃𝐍𝐈˚✧˖°}}$
  <p align="center">
-   $\color{#776e69}{\textsf{ 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙘 ; 𝙣𝙚𝙜𝙖𝙩𝙞𝙫𝙚 ; 𝙖𝙜𝙧𝙚𝙨𝙨𝙞𝙫𝙚 ; 𝙖 𝙧𝙖𝙘𝙞𝙨𝙩 𝙣𝙖𝙯𝙞𝙨𝙩𝙖; 𝙖 𝙗𝙪𝙡𝙡𝙮 ; 𝙘𝙤𝙡𝙙 ; 𝙪𝙣𝙙𝙚𝙧 11  }}$
+   $\color{#776e69}{\textsf{𝑯𝒐𝒎𝒐𝒑𝒉𝒐𝒃𝒊𝒄; 𝒏𝒆𝒈𝒂𝒕𝒊𝒗𝒆; 𝒂𝒈𝒈𝒓𝒆𝒔𝒔𝒊𝒗𝒆; 𝒂 𝒓𝒂𝒄𝒊𝒔𝒕 ; 𝒂 𝒏𝒂𝒛𝒊𝒔𝒕; 𝒂 𝒃𝒖𝒍𝒍𝒚; 𝒄𝒐𝒍𝒅; 𝒖𝒏𝒅𝒆𝒓 11}}$
 
 <p align="center">
 <img src="https://github.com/shu-kisser228/shu-kisser228/blob/f66ed574fe542587210e36c38494e1404da6f3d1/video_2026-06-09_19-46-56.gif" width="750" height="450">
