@@ -7,7 +7,7 @@
 <p align="center">
 <img width="800" height="600" alt="image" src="https://github.com/shu-kisser228/shu-kisser228/blob/602251374b833b5b11da5aea762f75a3167f14cd/d54652a310e4f5357f7d12971e60f902.jpg">
 <p align="center">
-<img src="https://wilardo.crd.co/assets/images/gallery21/1d27222e_original.gif?v=cc97760d" width="800" height="80">
+<img src="https://github.com/shu-kisser228/shu-kisser228/blob/03554a1c9a474fd0720b22487504a92b42a155ce/tumblr_9405db6f11229f828ac6cdfa60bc4f2c_b73a25e1_640.png" width="800" height="80">
 
  ##
 
@@ -22,11 +22,12 @@
 
  ##
  
-  
+ <p align="center">
+<img src="https://github.com/shu-kisser228/shu-kisser228/blob/c64bb8b3bea3bd0e722b4819a4366d667f6af9ce/tumblr_fea5ee0f1d4b29bb055c9b266548829d_b7c2ecf6_1280.png" width="800" height="80">  
  <p align="center">
  $\color{#be2323}{\textsf{°˖✧˚𝐃𝐍𝐈˚✧˖°}}$
  <p align="center">
-   $\color{#e1d5d5}{\textsf{ 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙘 ; 𝙣𝙚𝙜𝙖𝙩𝙞𝙫𝙚 ; 𝙖𝙜𝙧𝙚𝙨𝙨𝙞𝙫𝙚 ; 𝙖 𝙧𝙖𝙘𝙞𝙨𝙩 𝙣𝙖𝙯𝙞𝙨𝙩𝙖; 𝙖 𝙗𝙪𝙡𝙡𝙮 ; 𝙘𝙤𝙡𝙙 ; 𝙪𝙣𝙙𝙚𝙧 11  }}$
+   $\color{#776e69}{\textsf{ 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙘 ; 𝙣𝙚𝙜𝙖𝙩𝙞𝙫𝙚 ; 𝙖𝙜𝙧𝙚𝙨𝙨𝙞𝙫𝙚 ; 𝙖 𝙧𝙖𝙘𝙞𝙨𝙩 𝙣𝙖𝙯𝙞𝙨𝙩𝙖; 𝙖 𝙗𝙪𝙡𝙡𝙮 ; 𝙘𝙤𝙡𝙙 ; 𝙪𝙣𝙙𝙚𝙧 11  }}$
 
 <p align="center">
 <img src="https://github.com/shu-kisser228/shu-kisser228/blob/f66ed574fe542587210e36c38494e1404da6f3d1/video_2026-06-09_19-46-56.gif" width="750" height="450">
