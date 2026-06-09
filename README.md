@@ -31,3 +31,8 @@
 
 <p align="center">
 <img src="https://github.com/shu-kisser228/shu-kisser228/blob/f66ed574fe542587210e36c38494e1404da6f3d1/video_2026-06-09_19-46-56.gif" width="750" height="450">
+<p align="center">
+<img src="https://github.com/shu-kisser228/shu-kisser228/blob/648af6ca037c77b83b22cac61ee38d83bbed75d9/tumblr_684912c978cda50e1537ee9325fecacc_05b60b35_1280.png" width="800" height="80">  
+<p align="center">
+<img src="https://github.com/shu-kisser228/shu-kisser228/blob/445f1b39fdfb4349d578708d29489e60b4b10604/tumblr_e5bed1b4b4ed86c61638371a33941c4c_253cfc4e_400.png" width="800" height="450">
+
