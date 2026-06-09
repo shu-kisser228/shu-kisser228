@@ -21,3 +21,12 @@
  $\color{#776e69}{\textsf{ 𝑻𝒉𝒆 𝒆𝒗𝒊𝒍 𝒓𝒊𝒏𝒈, 𝑻𝒉𝒆 𝒉𝒖𝒏𝒕𝒆𝒓 𝒘𝒂𝒏𝒕𝒔 𝒕𝒐 𝒍𝒊𝒗𝒆 𝒒𝒖𝒊𝒆𝒕𝒍𝒚, 𝑻𝒉𝒆 𝑺 𝒄𝒍𝒂𝒔𝒔𝒆𝒔 𝒕𝒉𝒂𝒕 𝒊 𝒓𝒂𝒊𝒔𝒆𝒅, 𝑭𝒐𝒈𝒍𝒂𝒏𝒅}}$
 
  ##
+ 
+  
+ <p align="center">
+ $\color{#be2323}{\textsf{°˖✧˚𝐃𝐍𝐈˚✧˖°}}$
+ <p align="center">
+   $\color{#e1d5d5}{\textsf{ 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙘 ; 𝙣𝙚𝙜𝙖𝙩𝙞𝙫𝙚 ; 𝙖𝙜𝙧𝙚𝙨𝙨𝙞𝙫𝙚 ; 𝙖 𝙧𝙖𝙘𝙞𝙨𝙩 𝙣𝙖𝙯𝙞𝙨𝙩𝙖; 𝙖 𝙗𝙪𝙡𝙡𝙮 ; 𝙘𝙤𝙡𝙙 ; 𝙪𝙣𝙙𝙚𝙧 11  }}$
+
+<p align="center">
+<img src="https://github.com/shu-kisser228/shu-kisser228/blob/f66ed574fe542587210e36c38494e1404da6f3d1/video_2026-06-09_19-46-56.gif" width="750" height="450">
