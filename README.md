@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://gifcity.carrd.co/assets/images/gallery47/2e6c1771.png?v=3fc8f5cd" width="800" height="80">
 <p align="center">
-<img width="800" height="600" alt="image" src="https://github.com/shu-kisser228/DangeonDokja228/blob/42ad60730f9e79163711dc61fe024bf1a47e4a00/d54652a310e4f5357f7d12971e60f902.jpg">
+<img width="800" height="600" alt="image" src="https://github.com/shu-kisser228/shu-kisser228/blob/602251374b833b5b11da5aea762f75a3167f14cd/d54652a310e4f5357f7d12971e60f902.jpg">
 <p align="center">
 <img src="https://wilardo.crd.co/assets/images/gallery21/1d27222e_original.gif?v=cc97760d" width="800" height="80">
 <p align="center">
