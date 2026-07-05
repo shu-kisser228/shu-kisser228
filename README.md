@@ -1,6 +1,7 @@
 <p align="center">
  $\color{#be2323}{\textsf{☆꧁༒𝖂𝕰𝕷𝕮𝕺𝕸𝕰༒꧂☆}}$
 
+ [*tgc*](https://t.me/arbuz_pls)
  ##
 <p align="center">
 <img src="https://gifcity.carrd.co/assets/images/gallery47/2e6c1771.png?v=3fc8f5cd" width="800" height="80">
@@ -34,8 +35,5 @@
 <p align="center">
 <img src="https://github.com/shu-kisser228/shu-kisser228/blob/648af6ca037c77b83b22cac61ee38d83bbed75d9/tumblr_684912c978cda50e1537ee9325fecacc_05b60b35_1280.png" width="800" height="80">  
 
- [*tgc*](https://t.me/arbuz_pls)
 
-<p align="center">
-<img src="https://github.com/shu-kisser228/shu-kisser228/blob/445f1b39fdfb4349d578708d29489e60b4b10604/tumblr_e5bed1b4b4ed86c61638371a33941c4c_253cfc4e_400.png" width="800" height="450">
 
